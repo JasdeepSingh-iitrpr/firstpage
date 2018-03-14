@@ -1,0 +1,37 @@
+h1{
+  font-family: 'Rammetto One', cursive;
+ font-size: 76px;
+
+
+}
+body{
+
+	background: #7CFC00;
+  
+}
+
+h2{	
+
+     
+   
+   font-family: 'Lato', sans-serif;
+    font-size: 38px;
+
+    
+
+}
+p{	
+   font-family: 'Lato' , sans-serif;
+   font-size: 20px;
+
+
+}
+span{
+
+	font-weight: bold;
+	color: red;
+}
+x{	
+    font-size: 30px;
+
+}
